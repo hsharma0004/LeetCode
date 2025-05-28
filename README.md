@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hsharma0004/LeetCode/tree/master/0075-sort-colors) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hsharma0004/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hsharma0004/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hsharma0004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/hsharma0004/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
