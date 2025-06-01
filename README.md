@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hsharma0004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hsharma0004/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/hsharma0004/LeetCode/tree/master/0118-pascals-triangle) |
+| [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hsharma0004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/hsharma0004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+## Simulation
+|  |
+| ------- |
+| [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
