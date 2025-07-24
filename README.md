@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hsharma0004/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hsharma0004/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hsharma0004/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
