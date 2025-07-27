@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hsharma0004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hsharma0004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hsharma0004/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
