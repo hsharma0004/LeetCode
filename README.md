@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hsharma0004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hsharma0004/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hsharma0004/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hsharma0004/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hsharma0004/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -196,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/hsharma0004/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hsharma0004/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hsharma0004/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
