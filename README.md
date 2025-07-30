@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hsharma0004/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hsharma0004/LeetCode/tree/master/0075-sort-colors) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hsharma0004/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hsharma0004/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/hsharma0004/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/hsharma0004/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hsharma0004/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hsharma0004/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hsharma0004/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hsharma0004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -157,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hsharma0004/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
