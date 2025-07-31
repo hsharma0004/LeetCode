@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hsharma0004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hsharma0004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/hsharma0004/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/hsharma0004/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
 |  |
@@ -140,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hsharma0004/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hsharma0004/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hsharma0004/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hsharma0004/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
