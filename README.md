@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hsharma0004/LeetCode/tree/master/0009-palindrome-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hsharma0004/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Simulation
