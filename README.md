@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hsharma0004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/hsharma0004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hsharma0004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hsharma0004/LeetCode/tree/master/0075-sort-colors) |
+| [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/hsharma0004/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hsharma0004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hsharma0004/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hsharma0004/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
