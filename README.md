@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hsharma0004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hsharma0004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hsharma0004/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hsharma0004/LeetCode/tree/master/0075-sort-colors) |
 | [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hsharma0004/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/hsharma0004/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hsharma0004/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/hsharma0004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hsharma0004/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsharma0004/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hsharma0004/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hsharma0004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hsharma0004/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hsharma0004/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/hsharma0004/LeetCode/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hsharma0004/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0917-boats-to-save-people](https://github.com/hsharma0004/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hsharma0004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hsharma0004/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hsharma0004/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hsharma0004/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/hsharma0004/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
