@@ -1,0 +1,40 @@
+#include<bits/stdc++.h>
+bool isCyclic(int node, unordered_map<int,bool> &visited, unordered_map<int,bool> &dfsVisit, unordered_map<int,list<int>> &adj){
+  visited[node] = true;
+  dfsVisit[node] = true;
+
+  for(auto nei : adj[node]){
+    if(!visited[nei]){
+      bool cycle = isCyclic(nei,visited,dfsVisit,adj);
+      if(cycle) return true;
+    }
+    else if (dfsVisit[nei]) {
+            return true;
+    }
+  }
+  dfsVisit[node] = false;
+  return false;
+}
+
+
+int detectCycleInDirectedGraph(int n, vector < pair < int, int >> & edges) {
+  unordered_map<int,list<int>> adj;
+  for(int i=0; i<edges.size(); i++){
+    int u = edges[i].first;
+    int v = edges[i].second;
+
+    adj[u].push_back(v);
+  }
+
+  // call dfs
+  unordered_map<int,bool> visited;
+  unordered_map<int,bool> dfsVisit;
+
+  for(int i=1; i<n; i++){
+    if(!visited[i]){
+      bool ans = isCyclic(i,visited,dfsVisit,adj);
+      if(ans) return true;
+    }
+  }
+  return false;
+}
