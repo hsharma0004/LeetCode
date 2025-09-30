@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/hsharma0004/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/hsharma0004/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hsharma0004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hsharma0004/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hsharma0004/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -217,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hsharma0004/LeetCode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/hsharma0004/LeetCode/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hsharma0004/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/hsharma0004/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/hsharma0004/LeetCode/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/hsharma0004/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Divide and Conquer
 |  |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/hsharma0004/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hsharma0004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
